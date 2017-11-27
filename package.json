@@ -1,0 +1,13 @@
+{
+  "name": "buildyourownadventurebot",
+  "version": "0.11.2",
+  "description": "Simple chatbot game",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "*",
+    "path": "*",
+    "twilio": "^3.7.0"
+  }
+}
